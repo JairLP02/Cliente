@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">PersonasBasedeDatos</string>
+    <string name="titulo">Registrar</string>
+    <string name="cedula">Cédula</string>
+    <string name="buscar">Buscar</string>
+    <string name="apellido">Apellido</string>
+    <string name="nombre">Nombre</string>
+    <string name="sexo">Sexo</string>
+    <string name="Masculino" >Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="pasatiempos">Pasatiempos</string>
+    <string name="programar">Programar</string>
+    <string name="leer">Leer</string>
+    <string name="bailar">Bailar</string>
+    <string name="guardar">Guardar</string>
+    <string name="modificar">Modificar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="numero">No.</string>
+    <string name="registrar">Registrar</string>
+    <string name="listado_en_tabla">Listado en tabla</string>
+    <string name="listado">Listado</string>
+    <string name="telefono">Telefono</string>
+    <string-array name="opciones">
+        <item>@string/registrar</item>
+        <item>@string/listado_en_tabla</item>
+        <item>@string/listado</item>
+    </string-array>
+</resources>
